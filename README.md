@@ -8,4 +8,4 @@ Termux package containing scripts to call exposed API methods in the [Termux:API
 
 Depends on 
 
-https://github.com/rsanjuan87/termux-api/commit/48a1b4014f52d23173a95c4314e9accd3a02f801
+https://github.com/rsanjuan87/termux-api/
